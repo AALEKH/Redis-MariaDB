@@ -1,2 +1,2 @@
 # Redis-Mysql
-Test Code for MySQL Plugin for Redis MySQL Interaction [WIP]
+Test Code for MariaDB Plugin for Redis MariaDB Interaction [WIP]
